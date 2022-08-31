@@ -22,6 +22,7 @@
 
 පිලිවෙට කරන්න😌💯
 
+ෆොක් කරන්න මුලින්ම
 [මෙක ඔබපන්😹💔](https://github.com/DGXeon/CheemsBot-MD4/fork)
 
 QR ස්කැන් කරන්න
@@ -63,6 +64,11 @@ https://heroku.com/deploy?template=
 - [`CONTACT NUMBER`](Wa.me/84761346248)
 <p align="center">
 <img src="https://telegra.ph/file/04cbcc3801af6a0101fa7.jpg" alt="animated" width="540" height="280" />
+</p>
+
+<h1 align="center">𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬<br></h1>
+<p align="center">
+<img src="https://telegra.ph/file/7fbb8d33bd45e3eb8e767.jpg" alt="animated" width="540" height="280" />
 </p>
 
 
