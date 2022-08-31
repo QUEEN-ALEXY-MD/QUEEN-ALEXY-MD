@@ -41,3 +41,8 @@ https://heroku.com/deploy?template=
 <img src="https://telegra.ph/file/7fbb8d33bd45e3eb8e767.jpg" alt="animated" width="540" height="280" />
 </p>
 
+𝗣𝗼𝘄𝗲𝗿𝗱 𝗯𝘆;
+𝗖𝗬𝗕𝗘𝗥 𝗨𝗥𝗘𝗦𝗛
+𝗖𝗬𝗕𝗘𝗥 𝗙𝗟𝗔𝗦𝗛
+𝗖𝗬𝗕𝗘𝗥 𝗟𝗔𝗞𝗜𝗬𝗔
+
