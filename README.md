@@ -20,16 +20,6 @@
 
 𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗕𝗢𝗧 𝗛𝗘𝗟𝗣𝗜𝗡 𝗚𝗥𝗢𝗨𝗣
 
-[![QUEEN ALEXY HELP GROUP](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
-
-# 
-[![BLACK SPAMMER TEAM](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
-
-# 
-[![CYBER LAKIYA WA GROUP](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
-
-# 
-
 මුලින්ම fork කරන්න😒
 
 - FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD4/fork)
