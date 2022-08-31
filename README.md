@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @QUEEN-ALEXY-MD
 - 💃 created by 💃
-🤹️CYBER FLASH
-🤹️CYBER URESH
-🤹️CYBER LAKIYA
+-CYBER FLASH
+-CYBER URESH
+-CYBER LAKIYA
 
 The whatsapp user md bot💃
 
