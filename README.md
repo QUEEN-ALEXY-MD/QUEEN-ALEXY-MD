@@ -11,14 +11,14 @@
 </p>
 
 █▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█
-   𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗠𝗗
+     𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗠𝗗
 █▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█
 
 🦄𝗕𝗢𝗧 𝗦𝗨𝗣𝗣𝗢𝗥𝗧 𝗚𝗥𝗢𝗨𝗣
 
-- [`1st GC`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`2nd GC`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
-- [`3rd GC`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
+- [`𝗕𝗢𝗧 𝗛𝗘𝗟𝗣 𝗚𝗥𝗢𝗨𝗣`](https://chat.whatsapp.com/GpwWzOIvKCv3IP7wHphBHo)
+- [`𝗕𝗟𝗔𝗖𝗞 𝗦𝗣𝗔𝗠𝗠𝗘𝗥 𝗚𝗥𝗢𝗨𝗣`](https://chat.whatsapp.com/CNGIkEweBlZ40iDB070hFS)
+- [`𝗖𝗬𝗕𝗘𝗥 𝗟𝗔𝗞𝗜𝗬𝗔 𝗚𝗥𝗢𝗨𝗣`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
 
 🦄𝗦𝗘𝗧𝗨𝗣 𝗙𝗢𝗥 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧
 
