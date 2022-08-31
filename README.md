@@ -1,4 +1,4 @@
-
+o
 
 <h1 align="center">𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬<br></h1>
 <p align="center">
@@ -56,7 +56,7 @@ https://heroku.com/deploy?template=
 >>CYBER URESH
 - [`CONTACT NUMBER`](Wa.me/84761346248)
 <p align="center">
-<img src="https://telegra.ph/file/04cbcc3801af6a0101fa7.jpg.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/0d824c90364fd2177cb36.jpg.jpg" alt="animated" width="540" height="280" />
 </p>
 
 >>FAKE SHEHANAYA
