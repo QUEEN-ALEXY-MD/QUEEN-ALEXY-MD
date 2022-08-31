@@ -41,16 +41,3 @@ https://heroku.com/deploy?template=
 <img src="https://telegra.ph/file/7fbb8d33bd45e3eb8e767.jpg" alt="animated" width="540" height="280" />
 </p>
 
-<a href="https://raganork.souravkl11.xyz/"><img align="center" src="https://i.imgur.com/lLgFrTQ.png" alt="😌😌😌😌😌" height="112" width="300" /></a>
-<br>
-<div>
-<br>
-  
-<a href="https://raganork-network.vercel.app/api/deploy-md" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="CYBER LAKIYA" height="112" width="310" /></a>
-  <div>
-<br>
-<a href="https://github.com/raganork-ind/whatsapp-bot/fork"><img align="center" src="https://i.imgur.com/rM1IC4u.png" alt="CYBER FLASH WA NUMBER" height="112" width="300" /></a>
-<div>
-  <br>
-## _[How to use? Documentation](https://github.com/souravkl11/raganork-md/wiki/Raganork-Documentation)_
-## You can also use as a BGM bot. [Click here](https://github.com/souravkl11/raganork-md/wiki/Docs#how-to-set-up-bgm-bot)
