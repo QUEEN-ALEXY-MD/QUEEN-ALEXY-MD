@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @QUEEN-ALEXY-MD
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💃 created by 💃
+🤹️CYBER FLASH
+🤹️CYBER URESH
+🤹️CYBER LAKIYA
+
+The whatsapp user md bot💃
 
 <!---
 QUEEN-ALEXY-MD/QUEEN-ALEXY-MD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
