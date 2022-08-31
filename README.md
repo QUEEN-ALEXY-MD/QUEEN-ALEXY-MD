@@ -40,3 +40,4 @@ https://heroku.com/deploy?template=
 [𝗖𝗬𝗕𝗘𝗥 𝗙𝗟𝗔𝗦𝗛]
 [𝗖𝗬𝗕𝗘𝗥 𝗟𝗔𝗞𝗜𝗬𝗔]
 
+<img src="https://telegra.ph/file/ac5b1e481343fb9af833d.jpg"
