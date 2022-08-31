@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
+<img src="https://telegra.ph/file/7fbb8d33bd45e3eb8e767.jpg" alt="nz" width="350"/>
 </p>
 
 ## Gojo-Satoru
