@@ -18,14 +18,6 @@
 <a href="https://api.whatsapp.com/send?phone=+94784441238"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
-𝗗𝗢𝗡𝗔𝗧𝗘 𝗠𝗘
-
-- [`FamPay`](https://live.staticflickr.com/1759/28685176598_5c1301911c_b.jpg)
-
-<p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
-
 𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗕𝗢𝗧 𝗛𝗘𝗟𝗣𝗜𝗡 𝗚𝗥𝗢𝗨𝗣
 
 - [`1st GC`](https://chat.whatsapp.com/GsbcNw0Z53iAlEqezL5kyW)
