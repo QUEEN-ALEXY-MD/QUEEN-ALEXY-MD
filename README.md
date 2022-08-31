@@ -42,7 +42,13 @@ https://heroku.com/deploy?template=
 
 
 >>CYBER LAKIYA MODZ
-- [`𝗕𝗢𝗧 𝗛𝗘𝗟𝗣 𝗚𝗥𝗢𝗨𝗣`](https://chat.whatsapp.com/GpwWzOIvKCv3IP7wHphBHo)
+- [`CONTACT NUMBER`](https://api.whatsapp.com/send?phone=+94784441238)
 <p align="center">
 <img src="https://telegra.ph/file/ac5b1e481343fb9af833d.jpg" alt="animated" width="540" height="280" />
+</p>
+
+>>CYBER FLASH
+- [`CONTACT NUMBER`](Wa.me/84761346248)
+<p align="center">
+<img src="https://telegra.ph/file/93915fd50fc66733d440d.jpg" alt="animated" width="540" height="280" />
 </p>
