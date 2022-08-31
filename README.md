@@ -20,9 +20,15 @@
 
 𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗕𝗢𝗧 𝗛𝗘𝗟𝗣𝗜𝗡 𝗚𝗥𝗢𝗨𝗣
 
-- [`1st GC`](https://chat.whatsapp.com/GsbcNw0Z53iAlEqezL5kyW)
-- [`2nd GC`](https://chat.whatsapp.com/GpwWzOIvKCv3IP7wHphBHo)
-- [`3rd GC`](https://chat.whatsapp.com/CNGIkEweBlZ40iDB070hFS)
+[![QUEEN ALEXY HELP GROUP](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+
+# 
+[![BLACK SPAMMER TEAM](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+
+# 
+[![CYBER LAKIYA WA GROUP](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+
+# 
 
 මුලින්ම fork කරන්න😒
 
@@ -39,7 +45,7 @@
 - CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
 - CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+
 
 # 
 දැන් ඩිවලොප් කරන්න
