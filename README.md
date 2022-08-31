@@ -50,5 +50,5 @@ https://heroku.com/deploy?template=
 >>CYBER FLASH
 - [`CONTACT NUMBER`](Wa.me/84761346248)
 <p align="center">
-<img src="https://telegra.ph/file/93915fd50fc66733d440d.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/1b95f28fb3c21d011e02c.jpg" alt="animated" width="540" height="280" />
 </p>
