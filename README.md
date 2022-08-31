@@ -43,7 +43,7 @@ https://heroku.com/deploy?template=
 
 <h1 align="center">𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/7fbb8d33bd45e3eb8e767.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/5405c1c6becfd8721753a.jpg" alt="animated" width="540" height="280" />
 </p>
 
 🌹𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬🌹
