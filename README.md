@@ -32,13 +32,13 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 -------
 
 ❤️CYBER FLASH/CYBER URESH/CYBER LAKIYA CONTACT NUMBER❤️
-<p align="center">
+<p align="𝗖𝗘𝗡𝗧𝗘𝗥">
 <a href="https://wa.me/94761346248"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://api.whatsapp.com/send?phone=+null"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://api.whatsapp.com/send?phone=+94784441238"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
-## ```Donate Me```
+𝗗𝗢𝗡𝗔𝗧𝗘 𝗠𝗘
 
 - [`FamPay`](https://live.staticflickr.com/1759/28685176598_5c1301911c_b.jpg)
 
@@ -46,17 +46,17 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
 </p>
 
-QUEEN ALEXY BOT HELPIN GROUP
+𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗕𝗢𝗧 𝗛𝗘𝗟𝗣𝗜𝗡 𝗚𝗥𝗢𝗨𝗣
 
 - [`1st GC`](https://chat.whatsapp.com/GsbcNw0Z53iAlEqezL5kyW)
 - [`2nd GC`](https://chat.whatsapp.com/GpwWzOIvKCv3IP7wHphBHo)
 - [`3rd GC`](https://chat.whatsapp.com/CNGIkEweBlZ40iDB070hFS)
 
-# Setup For Deployment 👇
+මුලින්ම fork කරන්න😒
 
 - FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD4/fork)
 
-## `Scan QR Code For Session`
+දැන් QR ස්කැන් කරන්න  
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
 
 ## `SETTINGS`
