@@ -1,75 +1,142 @@
-
-
-<h1 align="center">𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/7fbb8d33bd45e3eb8e767.jpg" alt="animated" width="540" height="280" />
+<img src="https://telegra.ph/file/f3b2f9e862e1352d4fd94.jpg" alt="nz" width="350"/>
 </p>
 
+## Gojo-Satoru
 
-<p align="center">
-<a href="https://youtube.com/channel/UC-mNijHCmIVmPh-6hnvxzZQ"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
-</p>
+> <a href="https://youtu.be/W-QCp2fWRTo"><img src="https://img.shields.io/badge/Tutorial-Video-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 
+> [Automated Multi Device whatsapp bot created](https://github.com/nexusNw/Gojo-Satoru) by [nexusNw](github.com/nexusNw)
 
-𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗠𝗗
+> Dont forget to give a star bro.🥲 IF Heroku Deploy seems Error, Fork This Repo And Try Deploy Again
 
-
-ප්‍රශ්න තියෙනවා නම් සපොට් ගෘප් වලට එන්න😌💯
-
-- [`𝗕𝗢𝗧 𝗛𝗘𝗟𝗣 𝗚𝗥𝗢𝗨𝗣`](https://chat.whatsapp.com/GpwWzOIvKCv3IP7wHphBHo)
-- [`𝗕𝗟𝗔𝗖𝗞 𝗦𝗣𝗔𝗠𝗠𝗘𝗥 𝗚𝗥𝗢𝗨𝗣`](https://chat.whatsapp.com/CNGIkEweBlZ40iDB070hFS)
-- [`𝗖𝗬𝗕𝗘𝗥 𝗟𝗔𝗞𝗜𝗬𝗔 𝗚𝗥𝗢𝗨𝗣`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
-
-පිලිවෙට කරන්න😌💯
-
-ෆොක් කරන්න මුලින්ම
-[මෙක ඔබපන්😹💔](https://github.com/DGXeon/CheemsBot-MD4/fork)
-
-QR ස්කැන් කරන්න
-[![queenalexy](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
+> If The Api Of This Bot Run Empty You Can Change it To Your Own Api By Changing [Here](https://github.com/nexusNw/Gojo-Satoru/blob/master/settings.js#L18) And Register [here](https://zenzapis.xyz/) to get apikey
 
 
-Heroku එකෙන් ඩිවලොප් කරන්න
+</br>
 
+<a href="https://github.com/nexusNw"><img title="Author" src="https://img.shields.io/badge/Author-nexusNw-blue.svg?color=54aeff&style=for-the-badge&logo=github" /></a>  
+<a href="https://github.com/nexusNw/Gojo-Satoru"><img title="Stars" src="https://img.shields.io/github/stars/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/nexusNw/Gojo-Satoru/network/members"><img title="Forks" src="https://img.shields.io/github/forks/nexusNw/Gojo-Satoru?color=54aeff&style=flat-square" /></a>
+<a href="https://github.com/nexusNw/Gojo-Satoru/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/nexusNw/Gojo-Satoru?label=watchers&color=54aeff&style=flat-square" /></a> <br>
+
+---
+
+<!-- Requirements -->
+<b><details><summary>Requirements</summary></b>
+* Some Text Editor
+* [Node JS](https://nodejs.org/en/)
+* [Git](https://git-scm.com/downloads)
+* [FFMPEG](https://ffmpeg.org/download.html)
+  
+```bash
+Add FFmpeg to PATH environment variable
 ```
-https://heroku.com/deploy?template=
+</details>
+
+
+<!-- Start via Heroku -->
+<b><details><summary>Start via Heroku</summary></b>
+
+* Scan QR In Your Whatsapp From [Here](https://replit.com/@nexusNw/M-D-SCANNER-V2?v=1?outputonly=1&lite=1#index.js)
+* Fork This Repo By Clicking [Here](https://github.com/nexusNw/Gojo-Satoru/fork)
+* then Deploy The Bot From [Here](https://heroku.com/deploy)
+* Wait 5-10 Min To Deploy 
+* After Deploying On The Worker And Check The Logs
+
+</details>
+
+
+
+<!-- Installation via Termux -->
+<b><details><summary>Installation on Termux</summary></b>
+```bash
+> apt update
+> apt upgrade
+> pkg update && pkg upgrade
+> pkg install bash
+> pkg install libwebp
+> pkg install git -y
+> pkg install nodejs -y 
+> pkg install ffmpeg -y 
+> pkg install wget
+> pkg install imagemagick -y
+> git clone https://github.com/nexusNw/Gojo-Satoru
+> cd Gojo-Satoru
+> npm install
 ```
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
+</details>
 
-🌹𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬🌹
-[𝗖𝗬𝗕𝗘𝗥 𝗨𝗥𝗘𝗦𝗛]
-[𝗖𝗬𝗕𝗘𝗥 𝗙𝗟𝗔𝗦𝗛]
-[𝗖𝗬𝗕𝗘𝗥 𝗟𝗔𝗞𝗜𝗬𝗔]
+<!-- Edit -->
+<b><details><summary>Edit settings.js</summary></b>
+```bash
+global.APIKeys = {
+	'https://zenzapis.xyz': 'YOURAPIKEY',
+}
+  
+global.owner = ["9181XXXXXX"]
+global.ownername = ["YourName"]
+```
+</details>
 
 
->>CYBER LAKIYA MODZ
-- [`CONTACT NUMBER`](https://api.whatsapp.com/send?phone=+94784441238)
+<!-- 24hrs-->
+<b><details><summary>For 24 Hours Activation</summary></b>
+
+```bash
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+```
+
+</details>
+
+----
+
+
+<b><details><summary>Available Features</summary><br>
+	
+| Features |  Availability |
+| :------: |  :----------: |
+|   Convert     |       ✅     |
+|   Database     |       ✅     |
+|   Owner     |       ✅    |
+|   Islami     |       ✅     |
+|   Downloader     |       ✅     |
+|   Webzone     |       ✅[      |
+|   Searching     |       ✅      |
+|   Textpro     |       ✅      |
+|   Ephoto     |       ✅     |
+|   Anime Web     |       ✅      |
+|   Stalker     |       ✅      |
+|   Random Text     |       ✅     |
+|   Random Image     |       ✅     |
+|   Nekos Life     |       ✅      |
+|   More Nsfw     |       ✅      |
+|   Creator     |       ✅      |
+
+</details>
+
+
+----
+
+<!-- Contact Owner -->
+<b><details><summary>Contact</summary></b>
+
+## ```Connect With Me```
 <p align="center">
-<img src="https://telegra.ph/file/ac5b1e481343fb9af833d.jpg" alt="animated" width="540" height="280" />
+<a href="https://wa.me/918129624000"><img src="https://img.shields.io/badge/Contact Nexus-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ"><img src="https://img.shields.io/badge/Subscribe Nexus-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/c/BOTINDO" /><br>
 </p>
 
->>CYBER FLASH
-- [`CONTACT NUMBER`](Wa.me/84761346248)
-<p align="center">
-<img src="https://telegra.ph/file/1b95f28fb3c21d011e02c.jpg" alt="animated" width="540" height="280" />
-</p>
-
->>CYBER URESH
-- [`CONTACT NUMBER`](Wa.me/84761346248)
-<p align="center">
-<img src="https://telegra.ph/file/850753bd6d74dd671b52c.jpg" alt="animated" width="540" height="280" />
-</p>
-
->>FAKE SHEHANAYA
-- [`CONTACT NUMBER`](Wa.me/84761346248)
-<p align="center">
-<img src="https://telegra.ph/file/04cbcc3801af6a0101fa7.jpg" alt="animated" width="540" height="280" />
-</p>
-
-<h1 align="center">𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬<br></h1>
-<p align="center">
-<img src="https://telegra.ph/file/7fbb8d33bd45e3eb8e767.jpg" alt="animated" width="540" height="280" />
-</p>
+</details>
 
 
+</details><hr>
 
+## Thanks To
+* [`@adiwajshing/baileys`](https://github.com/adiwajshing/baileys)
+* [`Alien-Alfa`](https://github.com/Alien-Alfa)
+* [`DGXeon`](https://github.com/DGXeon)
+* [`AflahXrd`](https://github.com/nexusNw)
+
+
+License: [MIT](https://github.com/Gojo-Satoru/LICENSE)
