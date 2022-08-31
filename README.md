@@ -52,3 +52,10 @@ https://heroku.com/deploy?template=
 <p align="center">
 <img src="https://telegra.ph/file/1b95f28fb3c21d011e02c.jpg" alt="animated" width="540" height="280" />
 </p>
+
+>>FAKE SHEHANAYA
+- [`CONTACT NUMBER`](Wa.me/84761346248)
+<p align="center">
+<img src="https://telegra.ph/file/04cbcc3801af6a0101fa7.jpg" alt="animated" width="540" height="280" />
+</p>
+
