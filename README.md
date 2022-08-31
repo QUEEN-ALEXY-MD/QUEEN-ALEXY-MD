@@ -67,11 +67,10 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 - CHANGE OWNER NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L59)
 - CHANGE BOT NAME [Here](https://github.com/DGXeon/CheemsBot-MD4/blob/master/settings.js#L67)
 
-## ` BUILDPACKS`
 
+දැන් ඩිවලොප් කරන්න
 ```
-https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
-https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+https://heroku.com/deploy?template=
 ```
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
