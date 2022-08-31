@@ -35,11 +35,6 @@ https://heroku.com/deploy?template=
 ```
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
 
-<h1 align="center">𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬<br></h1>
-<p align="center">
-<img src="https://telegra.ph/file/5405c1c6becfd8721753a.jpg" alt="animated" width="540" height="280" />
-</p>
-
 🌹𝗣𝗢𝗪𝗘𝗥𝗗 𝗕𝗬🌹
 [𝗖𝗬𝗕𝗘𝗥 𝗨𝗥𝗘𝗦𝗛]
 [𝗖𝗬𝗕𝗘𝗥 𝗙𝗟𝗔𝗦𝗛]
