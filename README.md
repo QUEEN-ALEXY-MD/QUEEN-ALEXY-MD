@@ -33,12 +33,6 @@ Heroku එකෙන් ඩිවලොප් කරන්න
 ```
 https://heroku.com/deploy?template=
 ```
-
-<h1 align="center">𝗖𝗬𝗕𝗘𝗥 𝗟𝗔𝗞𝗜𝗬𝗔<br></h1>
-<p align="center">
-<img src="https://telegra.ph/file/5405c1c6becfd87e1753a.jpg.jpg" alt="animated" width="540" height="280" />
-</p>
-
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DGXeon/CheemsBot-MD4/)
 
 <h1 align="center">𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬<br></h1>
