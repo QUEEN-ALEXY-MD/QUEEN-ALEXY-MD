@@ -1,4 +1,4 @@
-O
+
 
 <h1 align="center">𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬<br></h1>
 <p align="center">
@@ -11,7 +11,12 @@ O
 <a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
-- [`𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗕𝗢𝗧 𝗛𝗥𝗟𝗣`]
+🔰CREATED BY:
+
+- [`𝗖𝗬𝗕𝗘𝗥 𝗙𝗟𝗔𝗦𝗛`]
+- [`𝗖𝗬𝗕𝗘𝗥 𝗨𝗥𝗘𝗦𝗛`]
+- [`𝗖𝗬𝗕𝗘𝗥 𝗟𝗔𝗞𝗜𝗬𝗔`]
+- [`𝗙𝗔𝗞𝗘 𝗦𝗛𝗘𝗛𝗔𝗡`]
 
 ---------------------------
 𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬
