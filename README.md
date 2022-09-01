@@ -36,5 +36,11 @@
 * Wait 5-10 Min To Deploy 
 * After Deploying On The Worker And Check The Logs
 
+#### ```TOTAL REPO VIEWS 🧚```
+![Visitor Count](https://github.com/QUEEN-ALEXY-MD)
+# 
+# 
+#
+
 </details>
 
