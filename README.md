@@ -5,8 +5,6 @@
 <img src="https://telegra.ph/file/cec4a563cbf0c59eb4e5a.jpg" alt="animated" width="540" height="280" />
 </p>
 
-🦄𝗤𝘂𝗲𝗲𝗻 𝗮𝗹𝗲𝘅𝘆 𝗰𝗿𝗲𝗮𝘁𝗲𝗱 𝗯𝘆 𝗰𝘆𝗯𝗲𝗿 𝗳𝗹𝗮𝘀𝗵/𝗰𝘆𝗯𝗲𝗿 𝘂𝗿𝗲𝘀𝗵/𝗰𝘆𝗯𝗲𝗿 𝗹𝗮𝗸𝗶𝘆𝗮 𝗺𝗼𝗱𝘇 𝗮𝗻𝗱 𝗳𝗮𝗸𝗲 𝘀𝗵𝗲𝗵𝗮𝗻🦄
-
 <p align="center">
 <a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
