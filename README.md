@@ -11,6 +11,8 @@ O
 <a href="https://youtu.be/WiIqCdiDjFo"><img title="Size" src="https://img.shields.io/badge/Tutorial-Video-green"></a>
 </p>
 
+- [`𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗕𝗢𝗧 𝗛𝗥𝗟𝗣`]
+
 ---------------------------
 𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬
 ----------------------------
