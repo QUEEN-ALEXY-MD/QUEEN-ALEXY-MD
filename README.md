@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Qᴜᴇᴇɴ ᴀʟᴇxʏ👸🏻<br></h1>
+<h1 align="center">Qᴜᴇᴇɴ ᴀʟᴇxʏ👸<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/cec4a563cbf0c59eb4e5a.jpg" alt="animated" width="540" height="280" />
 </p>
