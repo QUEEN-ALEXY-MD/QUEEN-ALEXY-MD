@@ -24,18 +24,6 @@
 
 පිලිවෙලට කරන්න 😌
 
-<!-- Requirements -->
-<b><details><summary>Requirements</summary></b>
-* Some Text Editor
-* [Node JS](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFMPEG](https://ffmpeg.org/download.html)
-  
-```bash
-Add FFmpeg to PATH environment variable
-```
-</details>
-
 
 <!-- Start via Heroku -->
 <b><details><summary>Start via Heroku</summary></b>
