@@ -23,7 +23,7 @@
 ප්‍රශ්න තියෙනවා නම් ගෘප් වලට එම්න😌❤️
 
 - [`𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬 𝗕𝗢𝗧 𝗛𝗥𝗟𝗣`](https://chat.whatsapp.com/HYj9wu5Jrv6CROxyeQbHoS)
-- [`𝗕𝗟𝗔𝗖𝗞 𝗦𝗣𝗔𝗠𝗘𝗘𝗥 𝗧𝗘𝗔𝗠`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
+- [`𝗕𝗟𝗔𝗖𝗞 𝗦𝗣𝗔𝗠𝗠𝗘𝗥 𝗧𝗘𝗔𝗠`](https://chat.whatsapp.com/LS1Xx3fSqg7FpSYSjKWhL5)
 - [`𝗖𝗬𝗕𝗘𝗥 𝗟𝗔𝗞𝗜𝗬𝗔 𝗠𝗢𝗗𝗭`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
 - [`𝗖𝗬𝗕𝗘𝗥 𝗡𝗘𝗧𝗪𝗢𝗥𝗞 𝗧𝗘𝗔𝗠`](https://chat.whatsapp.com/EcycNbJFCVT5ZsG9xIGkqd)
 
