@@ -17,7 +17,7 @@
 - `𝗙𝗔𝗞𝗘 𝗦𝗛𝗘𝗛𝗔𝗡`
 
 #### ```TOTAL REPO VIEWS 🧚```
-![Visitor Count](https://profile-counter.glitch.me/darkmakerofc/count.svg)
+![Visitor Count](https://github.com/QUEEN-ALEXY-MD/QUEEN-ALEXY-MD/blob/main/README.md)
 
 ---------------------------
 𝗤𝗨𝗘𝗘𝗡 𝗔𝗟𝗘𝗫𝗬
